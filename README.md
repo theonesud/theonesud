@@ -1,9 +1,5 @@
-# About Me:
-
-- Dynamic technology expert with 6 years of experience in advanced engineering and AI research, specializing in integrating innovative tech solutions with business objectives in startup environments to boost profitability and efficiency. 
-- Adept in high-scale backend web development and deep learning AI, with a proven track record of collaborating effectively with both executives and end-users. 
-- Committed to excellence in documentation, process management, and communication, ensuring seamless project execution and delivery of superior, visionary solutions. 
-
+# Who am I?
+Technology expert with 6 years of experience in engineering and AI, specializing in merging tech solutions with business goals in startups. Skilled in backend web development and deep learning AI. Proven ability to work with executives and end-users. Focuses on excellent documentation, process management, and communication for effective project execution and delivering innovative solutions.
 
 # Collaborative Ventures:
 
